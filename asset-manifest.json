@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/monsters-hash/static/css/main.038dc626.chunk.css",
+    "main.js": "/monsters-hash/static/js/main.368a8090.chunk.js",
+    "main.js.map": "/monsters-hash/static/js/main.368a8090.chunk.js.map",
+    "runtime-main.js": "/monsters-hash/static/js/runtime-main.96efd35a.js",
+    "runtime-main.js.map": "/monsters-hash/static/js/runtime-main.96efd35a.js.map",
+    "static/js/2.7f2e541f.chunk.js": "/monsters-hash/static/js/2.7f2e541f.chunk.js",
+    "static/js/2.7f2e541f.chunk.js.map": "/monsters-hash/static/js/2.7f2e541f.chunk.js.map",
+    "index.html": "/monsters-hash/index.html",
+    "precache-manifest.50887a5e2df34dd1ba949ba2d5ca6586.js": "/monsters-hash/precache-manifest.50887a5e2df34dd1ba949ba2d5ca6586.js",
+    "service-worker.js": "/monsters-hash/service-worker.js",
+    "static/css/main.038dc626.chunk.css.map": "/monsters-hash/static/css/main.038dc626.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96efd35a.js",
+    "static/js/2.7f2e541f.chunk.js",
+    "static/css/main.038dc626.chunk.css",
+    "static/js/main.368a8090.chunk.js"
+  ]
+}
