@@ -1,5 +1,8 @@
 # monsters-hash
 Exercise : ReactJS 
+- Filtering
+- Create Component
+- How communication component with another component
 
 see the result : https://irhamciptadi.github.io/monsters-hash/
 
