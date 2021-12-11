@@ -4,7 +4,7 @@ Exercise : ReactJS
 - Create Component
 - How communication component with another component
 
-see the result : https://irhamciptadi.github.io/monsters-hash/
+see the result : [demo](https://iciptadi.github.io/monsters-hash/ "demo")
 
 <br>
 <img src="https://github.com/irhamciptadi/monsters-hash/blob/gh-pages/monster-hash.png"/>
